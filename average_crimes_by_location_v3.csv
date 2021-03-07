@@ -1,0 +1,216 @@
+Neighbourhood,Postal,Offence,Number
+ Ang Mo Kio North ,569784,Housebreaking,4.857142857142857
+ Ang Mo Kio North ,569784,Outrage Of Modesty,26.0
+ Ang Mo Kio North ,569784,Robbery,2.0
+ Ang Mo Kio North ,569784,Snatch Theft,2.7142857142857144
+ Ang Mo Kio North ,569784,Theft Of Motor Vehicle,5.0
+ Ang Mo Kio South ,569929,Housebreaking,4.0
+ Ang Mo Kio South ,569929,Outrage Of Modesty,25.571428571428573
+ Ang Mo Kio South ,569929,Robbery,3.4285714285714284
+ Ang Mo Kio South ,569929,Snatch Theft,3.857142857142857
+ Ang Mo Kio South ,569929,Theft Of Motor Vehicle,6.428571428571429
+ Bedok North ,469676,Housebreaking,10.571428571428571
+ Bedok North ,469676,Outrage Of Modesty,40.714285714285715
+ Bedok North ,469676,Robbery,6.142857142857143
+ Bedok North ,469676,Snatch Theft,4.428571428571429
+ Bedok North ,469676,Theft Of Motor Vehicle,15.857142857142858
+ Bedok South ,469045,Housebreaking,12.428571428571429
+ Bedok South ,469045,Outrage Of Modesty,26.285714285714285
+ Bedok South ,469045,Robbery,2.5714285714285716
+ Bedok South ,469045,Snatch Theft,4.142857142857143
+ Bedok South ,469045,Theft Of Motor Vehicle,6.857142857142857
+ Bishan ,579757,Housebreaking,7.142857142857143
+ Bishan ,579757,Outrage Of Modesty,24.571428571428573
+ Bishan ,579757,Robbery,2.5714285714285716
+ Bishan ,579757,Snatch Theft,1.2857142857142858
+ Bishan ,579757,Theft Of Motor Vehicle,3.2857142857142856
+ Bukit Batok ,659840,Housebreaking,7.571428571428571
+ Bukit Batok ,659840,Outrage Of Modesty,38.285714285714285
+ Bukit Batok ,659840,Robbery,2.5714285714285716
+ Bukit Batok ,659840,Snatch Theft,3.5714285714285716
+ Bukit Batok ,659840,Theft Of Motor Vehicle,5.142857142857143
+ Bukit Merah East ,088762,Housebreaking,9.428571428571429
+ Bukit Merah East ,088762,Outrage Of Modesty,58.714285714285715
+ Bukit Merah East ,088762,Robbery,4.428571428571429
+ Bukit Merah East ,088762,Snatch Theft,7.0
+ Bukit Merah East ,088762,Theft Of Motor Vehicle,7.0
+ Bukit Merah West ,159682,Housebreaking,10.571428571428571
+ Bukit Merah West ,159682,Outrage Of Modesty,41.142857142857146
+ Bukit Merah West ,159682,Robbery,4.142857142857143
+ Bukit Merah West ,159682,Snatch Theft,3.0
+ Bukit Merah West ,159682,Theft Of Motor Vehicle,9.857142857142858
+ Bukit Panjang ,679005,Housebreaking,7.714285714285714
+ Bukit Panjang ,679005,Outrage Of Modesty,26.857142857142858
+ Bukit Panjang ,679005,Robbery,2.0
+ Bukit Panjang ,679005,Snatch Theft,2.857142857142857
+ Bukit Panjang ,679005,Theft Of Motor Vehicle,4.857142857142857
+ Bukit Timah ,268914,Housebreaking,7.857142857142857
+ Bukit Timah ,268914,Outrage Of Modesty,22.285714285714285
+ Bukit Timah ,268914,Robbery,1.5714285714285714
+ Bukit Timah ,268914,Snatch Theft,1.5714285714285714
+ Bukit Timah ,268914,Theft Of Motor Vehicle,2.142857142857143
+ Changi ,529914,Housebreaking,5.571428571428571
+ Changi ,529914,Outrage Of Modesty,28.714285714285715
+ Changi ,529914,Robbery,2.0
+ Changi ,529914,Snatch Theft,2.142857142857143
+ Changi ,529914,Theft Of Motor Vehicle,7.0
+ Choa Chu Kang ,689286,Housebreaking,8.285714285714286
+ Choa Chu Kang ,689286,Outrage Of Modesty,41.42857142857143
+ Choa Chu Kang ,689286,Robbery,3.857142857142857
+ Choa Chu Kang ,689286,Snatch Theft,3.4285714285714284
+ Choa Chu Kang ,689286,Theft Of Motor Vehicle,11.0
+ Clementi ,149725,Housebreaking,10.571428571428571
+ Clementi ,149725,Outrage Of Modesty,33.285714285714285
+ Clementi ,149725,Robbery,3.2857142857142856
+ Clementi ,149725,Snatch Theft,3.2857142857142856
+ Clementi ,149725,Theft Of Motor Vehicle,5.714285714285714
+ Geylang ,401094,Housebreaking,28.0
+ Geylang ,401094,Outrage Of Modesty,66.85714285714286
+ Geylang ,401094,Robbery,29.0
+ Geylang ,401094,Snatch Theft,17.714285714285715
+ Geylang ,401094,Theft Of Motor Vehicle,26.142857142857142
+ Hougang ,538775,Housebreaking,11.0
+ Hougang ,538775,Outrage Of Modesty,43.42857142857143
+ Hougang ,538775,Robbery,5.0
+ Hougang ,538775,Snatch Theft,4.0
+ Hougang ,538775,Theft Of Motor Vehicle,13.142857142857142
+ Jurong East ,609962,Housebreaking,6.857142857142857
+ Jurong East ,609962,Outrage Of Modesty,41.0
+ Jurong East ,609962,Robbery,4.0
+ Jurong East ,609962,Snatch Theft,3.0
+ Jurong East ,609962,Theft Of Motor Vehicle,5.142857142857143
+ Jurong West ,649818,Housebreaking,12.714285714285714
+ Jurong West ,649818,Outrage Of Modesty,48.142857142857146
+ Jurong West ,649818,Robbery,4.0
+ Jurong West ,649818,Snatch Theft,6.857142857142857
+ Jurong West ,649818,Theft Of Motor Vehicle,13.142857142857142
+ Kampong Java ,228892,Housebreaking,6.428571428571429
+ Kampong Java ,228892,Outrage Of Modesty,28.285714285714285
+ Kampong Java ,228892,Robbery,5.428571428571429
+ Kampong Java ,228892,Snatch Theft,2.142857142857143
+ Kampong Java ,228892,Theft Of Motor Vehicle,4.142857142857143
+ Marina Bay ,078870,Housebreaking,7.428571428571429
+ Marina Bay ,078870,Outrage Of Modesty,95.85714285714286
+ Marina Bay ,078870,Robbery,4.0
+ Marina Bay ,078870,Snatch Theft,3.0
+ Marina Bay ,078870,Theft Of Motor Vehicle,3.142857142857143
+ Marine Parade ,449296,Housebreaking,11.571428571428571
+ Marine Parade ,449296,Outrage Of Modesty,27.142857142857142
+ Marine Parade ,449296,Robbery,1.4285714285714286
+ Marine Parade ,449296,Snatch Theft,2.4285714285714284
+ Marine Parade ,449296,Theft Of Motor Vehicle,2.857142857142857
+ Nanyang ,649482,Housebreaking,12.285714285714286
+ Nanyang ,649482,Outrage Of Modesty,46.42857142857143
+ Nanyang ,649482,Robbery,6.285714285714286
+ Nanyang ,649482,Snatch Theft,3.857142857142857
+ Nanyang ,649482,Theft Of Motor Vehicle,12.285714285714286
+ Orchard ,239572,Housebreaking,8.428571428571429
+ Orchard ,239572,Outrage Of Modesty,122.14285714285714
+ Orchard ,239572,Robbery,6.857142857142857
+ Orchard ,239572,Snatch Theft,3.5714285714285716
+ Orchard ,239572,Theft Of Motor Vehicle,3.2857142857142856
+ Pasir Ris ,519457,Housebreaking,4.142857142857143
+ Pasir Ris ,519457,Outrage Of Modesty,28.428571428571427
+ Pasir Ris ,519457,Robbery,2.0
+ Pasir Ris ,519457,Snatch Theft,2.0
+ Pasir Ris ,519457,Theft Of Motor Vehicle,6.428571428571429
+ Punggol ,828837,Housebreaking,2.4285714285714284
+ Punggol ,828837,Outrage Of Modesty,15.285714285714286
+ Punggol ,828837,Robbery,1.4285714285714286
+ Punggol ,828837,Snatch Theft,0.5714285714285714
+ Punggol ,828837,Theft Of Motor Vehicle,2.4285714285714284
+ Queenstown ,149725,Housebreaking,16.571428571428573
+ Queenstown ,149725,Outrage Of Modesty,40.57142857142857
+ Queenstown ,149725,Robbery,1.8571428571428572
+ Queenstown ,149725,Snatch Theft,3.5714285714285716
+ Queenstown ,149725,Theft Of Motor Vehicle,5.857142857142857
+ Rochor ,208678,Housebreaking,13.714285714285714
+ Rochor ,208678,Outrage Of Modesty,60.42857142857143
+ Rochor ,208678,Robbery,15.0
+ Rochor ,208678,Snatch Theft,10.142857142857142
+ Rochor ,208678,Theft Of Motor Vehicle,13.714285714285714
+ Sembawang ,757633,Housebreaking,1.7857142857142858
+ Sembawang ,757633,Outrage Of Modesty,10.857142857142858
+ Sembawang ,757633,Robbery,1.2857142857142858
+ Sembawang ,757633,Snatch Theft,0.5714285714285714
+ Sembawang ,757633,Theft Of Motor Vehicle,2.0
+ Sengkang ,545025,Housebreaking,4.714285714285714
+ Sengkang ,545025,Outrage Of Modesty,40.142857142857146
+ Sengkang ,545025,Robbery,3.142857142857143
+ Sengkang ,545025,Snatch Theft,2.142857142857143
+ Sengkang ,545025,Theft Of Motor Vehicle,10.428571428571429
+ Serangoon ,556129,Housebreaking,9.428571428571429
+ Serangoon ,556129,Outrage Of Modesty,27.142857142857142
+ Serangoon ,556129,Robbery,1.7142857142857142
+ Serangoon ,556129,Snatch Theft,0.7142857142857143
+ Serangoon ,556129,Theft Of Motor Vehicle,3.857142857142857
+ Tampines ,529682,Housebreaking,6.571428571428571
+ Tampines ,529682,Outrage Of Modesty,41.142857142857146
+ Tampines ,529682,Robbery,5.857142857142857
+ Tampines ,529682,Snatch Theft,5.428571428571429
+ Tampines ,529682,Theft Of Motor Vehicle,16.428571428571427
+ Toa Payoh ,319194,Housebreaking,11.0
+ Toa Payoh ,319194,Outrage Of Modesty,34.57142857142857
+ Toa Payoh ,319194,Robbery,4.714285714285714
+ Toa Payoh ,319194,Snatch Theft,3.0
+ Toa Payoh ,319194,Theft Of Motor Vehicle,7.571428571428571
+ Woodlands ,738070,Housebreaking,0.0
+ Woodlands ,738070,Outrage Of Modesty,0.0
+ Woodlands ,738070,Robbery,0.0
+ Woodlands ,738070,Snatch Theft,0.0
+ Woodlands ,738070,Theft Of Motor Vehicle,0.0
+ Woodlands East ,738070,Housebreaking,3.4285714285714284
+ Woodlands East ,738070,Outrage Of Modesty,21.714285714285715
+ Woodlands East ,738070,Robbery,1.9285714285714286
+ Woodlands East ,738070,Snatch Theft,2.642857142857143
+ Woodlands East ,738070,Theft Of Motor Vehicle,8.0
+ Woodlands West ,738070,Housebreaking,4.714285714285714
+ Woodlands West ,738070,Outrage Of Modesty,22.357142857142858
+ Woodlands West ,738070,Robbery,3.7857142857142856
+ Woodlands West ,738070,Snatch Theft,2.5714285714285716
+ Woodlands West ,738070,Theft Of Motor Vehicle,7.785714285714286
+ Yishun North ,768827,Housebreaking,3.9285714285714284
+ Yishun North ,768827,Outrage Of Modesty,18.357142857142858
+ Yishun North ,768827,Robbery,1.3571428571428572
+ Yishun North ,768827,Snatch Theft,1.8571428571428572
+ Yishun North ,768827,Theft Of Motor Vehicle,4.571428571428571
+ Yishun South ,768456,Housebreaking,2.142857142857143
+ Yishun South ,768456,Outrage Of Modesty,12.0
+ Yishun South ,768456,Robbery,0.7857142857142857
+ Yishun South ,768456,Snatch Theft,0.35714285714285715
+ Yishun South ,768456,Theft Of Motor Vehicle,2.142857142857143
+[Total]Ang Mo Kio Police Division - Total,-,Housebreaking,51.857142857142854
+[Total]Ang Mo Kio Police Division - Total,-,Outrage Of Modesty,259.7142857142857
+[Total]Ang Mo Kio Police Division - Total,-,Robbery,23.571428571428573
+[Total]Ang Mo Kio Police Division - Total,-,Snatch Theft,19.571428571428573
+[Total]Ang Mo Kio Police Division - Total,-,Theft Of Motor Vehicle,58.57142857142857
+[Total]Bedok Police Division - Total,-,Housebreaking,78.85714285714286
+[Total]Bedok Police Division - Total,-,Outrage Of Modesty,259.7142857142857
+[Total]Bedok Police Division - Total,-,Robbery,49.0
+[Total]Bedok Police Division - Total,-,Snatch Theft,38.285714285714285
+[Total]Bedok Police Division - Total,-,Theft Of Motor Vehicle,81.57142857142857
+[Total]Central Police Division - Total,-,Housebreaking,30.571428571428573
+[Total]Central Police Division - Total,-,Outrage Of Modesty,215.14285714285714
+[Total]Central Police Division - Total,-,Robbery,23.428571428571427
+[Total]Central Police Division - Total,-,Snatch Theft,20.142857142857142
+[Total]Central Police Division - Total,-,Theft Of Motor Vehicle,23.857142857142858
+[Total]Clementi Police Division - Total,-,Housebreaking,44.57142857142857
+[Total]Clementi Police Division - Total,-,Outrage Of Modesty,156.0
+[Total]Clementi Police Division - Total,-,Robbery,13.285714285714286
+[Total]Clementi Police Division - Total,-,Snatch Theft,12.857142857142858
+[Total]Clementi Police Division - Total,-,Theft Of Motor Vehicle,26.571428571428573
+[Total]Jurong Police Division - Total,-,Housebreaking,64.85714285714286
+[Total]Jurong Police Division - Total,-,Outrage Of Modesty,288.2857142857143
+[Total]Jurong Police Division - Total,-,Robbery,30.142857142857142
+[Total]Jurong Police Division - Total,-,Snatch Theft,31.0
+[Total]Jurong Police Division - Total,-,Theft Of Motor Vehicle,78.0
+[Total]Tanglin Police Division - Total,-,Housebreaking,40.857142857142854
+[Total]Tanglin Police Division - Total,-,Outrage Of Modesty,231.85714285714286
+[Total]Tanglin Police Division - Total,-,Robbery,21.142857142857142
+[Total]Tanglin Police Division - Total,-,Snatch Theft,11.571428571428571
+[Total]Tanglin Police Division - Total,-,Theft Of Motor Vehicle,20.428571428571427
+[Total]Woodlands Police Division - Total,-,Housebreaking,0.2857142857142857
+[Total]Woodlands Police Division - Total,-,Outrage Of Modesty,2.142857142857143
+[Total]Woodlands Police Division - Total,-,Robbery,0.0
+[Total]Woodlands Police Division - Total,-,Snatch Theft,0.0
+[Total]Woodlands Police Division - Total,-,Theft Of Motor Vehicle,0.14285714285714285
