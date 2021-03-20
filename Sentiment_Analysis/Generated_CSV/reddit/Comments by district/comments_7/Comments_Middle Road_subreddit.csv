@@ -1,0 +1,86 @@
+,district_num,comment_id,comment_parent_id,comment_body,comment_link_id,created
+0,6,eg5hndv,t3_ap2bny,"Hope they arrest the runaway driver and prosecute. There must be ample evidence in dashcams and other CCTVs nearby. 
+
+Sometimes wish Singapore is one of those countries where these guys get their instant justice from the mob.
+",t3_ap2bny,10-02-2019
+1,6,eg5a4n4,t3_ap2bny,"> # Hit-and-run accident at Middle Road-Queen Street junction, 3 taken to hospital
+
+> SINGAPORE - Three people were taken to hospital after an accident between three vehicles on Sunday morning (Feb 10).
+
+> The police were alerted to the hit-and-run accident involving two cars and a taxi at the junction of Middle Road and Queen Street at 1.49am.
+
+> The 35-year-old male taxi driver and his passenger, a 29-year-old woman, were taken to Singapore General Hospital.
+
+> One of the other drivers, a 38-year-old man, was taken to Tan Tock Seng Hospital.
+
+> All three victims were conscious when taken to hospital, the police said.
+
+> Chinese dailies Lianhe Wanbao and Shin Min Daily News reported that one of the drivers of the white cars involved in the accident fled the scene.
+
+> Photos of the accident showed that one of the white cars had significant damage to its front bumper.
+
+> The left side of the vehicle also showed signs of impact and the airbags in the car were activated.
+
+> The front bumper of the other white car was also badly damaged, and debris was strewn on the road.
+
+> The police are investigating the accident.
+
+---
+0.4.0-beta | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)",t3_ap2bny,10-02-2019
+2,6,eg5a5f0,t3_ap2bny,[deleted],t3_ap2bny,10-02-2019
+3,6,eg5fmku,t3_ap2bny,"Good that all 3 people were conscious when taken to hospital, hope nothing serious. On side note, anyone knows why they are taken to different hospitals (TTSH and SGH)?? Wouldnt there be a standard protocol to send to the nearest hospital?",t3_ap2bny,10-02-2019
+4,6,eg5gvmt,t1_eg5fmku,My guess is that they have to divide the available manpower at the hospitals. 1 seriously injured person alone probably involves more than 10 hospital staff.,t3_ap2bny,10-02-2019
+5,6,eg605mc,t1_eg5fmku,Different hospitals have different specialties. Maybe the patients required different kind of medical procedure. Also could be the temporary lack of resources to deal with more than 2 patients. ,t3_ap2bny,10-02-2019
+6,6,eg63k4y,t1_eg5fmku,"Used to be that head injury cases from road traffic accidents were taken to TTSH, don't know if it's still the case now. The reason was it had the first ct scan in a public hospital.",t3_ap2bny,10-02-2019
+7,6,egbdf8l,t1_eg5gvmt,I shudder to think of the scenario of a lack of staff at the A&Es during a major public health incident or terrorist event. ,t3_ap2bny,12-02-2019
+8,6,etl90ik,t3_cc96bs,"> # Taxi bursts into flames along Middle Road
+
+> SINGAPORE: A taxi driver made a narrow escape on Thursday afternoon (Jul 11), moments before his vehicle caught fire.
+
+> 
+
+> The ComfortDelGro driver, who wanted to be identified only as Mr Yeo, said he had been driving along Middle Road during his afternoon shift when he noticed smoke coming from the car.
+
+> 
+
+> Advertisement
+
+> Advertisement
+
+> ""White smoke started pouring out of the exhaust when I was driving and I parked at the side of the road before the front of the car started emitting black smoke. I quickly left the car with my things as the smoke increased.""
+
+> 
+
+> Screengrab from a video shows firefighters working to extinguish a blazing taxi after it caught fire along Middle Road. (Screengrab: CNA reader)
+
+> Mr Yeo added that there were no passengers in the vehicle at the time of the incident and that he was not injured.
+
+> Advertisement
+
+> Advertisement
+
+> The Singapore Civil Defence Force (SCDF) said it responded to a fire near 31 Middle Road at about 4.30pm.
+
+> ""The fire involving the engine compartment of a taxi was extinguished by SCDF using two water jets,"" it added.
+
+> 
+
+> Mr Yeo said the fire burned for about 10 minutes before it was extinguished.
+
+> Screengrab from a video shows a smoking taxi at Middle Road. (Screengrab: Abhishek Ravish)
+
+> Comfort DelGro said it is investigating the incident.
+
+> ""We are thankful that our cabby has escaped unhurt. We will assist him the best we can,"" said the company's group chief corporate communications officer Tammy Tan.
+
+> 
+
+> ""We are investigating the cause of the incident together with the manufacturer of the vehicle.""
+
+> 
+
+---
+1.0.1 | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)",t3_cc96bs,12-07-2019
+9,6,etnxr8h,t1_etl90ik,"Wow. That much damage after  10 minutes burning. 
+
+Note to self: see or smell smoke, take it seriously and get out and stay back.",t3_cc96bs,13-07-2019
